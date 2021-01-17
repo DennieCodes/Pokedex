@@ -1,0 +1,14 @@
+body {
+  background-color: lightgray;
+}
+
+.Pokegame-container {
+  background-color: white;
+  margin: 5rem 25%;
+  padding: 1rem;
+}
+
+.Pokegame-title {
+  margin: 0 42.5%;
+  color: grey;
+}

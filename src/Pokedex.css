@@ -1,0 +1,20 @@
+.Pokedex-container {
+  margin: 1rem;
+}
+
+.Pokedex-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Pokedex-total {
+  color: mediumseagreen;
+  margin-left: 43%;
+}
+
+.Pokedex-winner {
+  color: mediumslateblue;
+  margin-left: 42%;
+}
